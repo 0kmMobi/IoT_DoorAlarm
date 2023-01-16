@@ -6,7 +6,7 @@ This 'Door alert' controller is part of smart home infrastructure.
 
 ## Description
 
-<img height="512" width="1024" src="/_readmi-res/elements.png">
+<img height="384" width="768" src="/_readmi-res/elements.png">
 
 The main features of the IoT controller:
 1. Based on ESP8266/ESP32. It connects via Wifi to a router for Internet access;
