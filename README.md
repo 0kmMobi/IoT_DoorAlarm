@@ -1,6 +1,6 @@
-# The 'Door alert' IoT controller
+# The 'Door alarm' IoT controller
 
-This 'Door alert' controller is part of smart home infrastructure.
+This 'Door alarm' controller is part of smart home infrastructure.
 
 [To manage the IoT devices of this smart home system, there is a special mobile cross-platform application](https://github.com/0kmMobi/iots_manager).
 
